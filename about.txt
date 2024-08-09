@@ -1,8 +1,5 @@
 Rock Paper Scissors Game
 
-Description:
-This is a simple web-based Rock, Paper, Scissors game. The user can play against the computer by choosing one of the options and then seeing the result. The game follows the traditional rules of Rock, Paper, Scissors.
-
 How to Play:
 - Open the game page in a web browser.
 - Click on either "Rock", "Paper", or "Scissors" to make your choice.
