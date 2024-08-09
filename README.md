@@ -4,4 +4,4 @@ GameBox is a curated collection of beginner-friendly web games, perfect for honi
 
 ## Rock Paper Scissors
 
-Check out our Rock Paper Scissors game by clicking [here](https://Pranavsai29.github.io/Simon-game//index.html).
+Check out our Rock Paper Scissors game by clicking [here](https://pranavsai29.github.io/Rock-Paper-Scissor/).
